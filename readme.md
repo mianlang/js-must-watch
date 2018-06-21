@@ -87,5 +87,5 @@
 1. [Douglas Crockford: **Scene 6: Loopage**](https://www.youtube.com/watch?v=QgwSUtYSUqA) [51:52]
 
 ## 2009
-1. [Nicholas Zakas: **Scalable JavaScript Application Architecture**](https://www.youtube.com/watch?v=vXjVFPosQHw) [52:22]
-2. start on 18-6-19 [Douglas Crockford: **JavaScript: The Good Parts**](https://www.youtube.com/watch?v=hQVTIJBZook) [1:03:47]
+1. o 18-6-21 [Nicholas Zakas: **Scalable JavaScript Application Architecture**](https://www.youtube.com/watch?v=vXjVFPosQHw) [52:22]
+2. v 18-6-21 [Douglas Crockford: **JavaScript: The Good Parts**](https://www.youtube.com/watch?v=hQVTIJBZook) [1:03:47]
